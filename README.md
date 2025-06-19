@@ -1,2 +1,4 @@
 # QuantiVex
-A Mock Chemical StartUp (Course Project: Chemical Process Industries). Worked as the Head of Technical Operations, with a team of 13 students.
+A Mock Chemical StartUp (Course Project: Chemical Process Industries). 
+1. Worked as the Head of Technical Operations for two chemicals LABS (Linear Alkyl Benzene Sulphonate) and FAE (Fatty Acid Ethoxylates).
+2. This involves designing process block diagrams, selecting the necessary equipment, calculating its required capital costs, and analyzing mass and energy balances.
